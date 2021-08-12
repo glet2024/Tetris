@@ -3,4 +3,8 @@ An full implementation of the classic Tetris game utilizing JavaFX. Originally c
 Code is redacted in accordance with Brown University and CS15 course anti-plagiarism policies.
 
 Below is a demo of my program:
-https://user-images.githubusercontent.com/77819050/129275295-7ac4d12e-b674-4a77-bb72-109437698a9c.mp4
+
+
+
+https://user-images.githubusercontent.com/77819050/129275374-4c0c7868-0ab9-4a9e-a35e-646b8c42d572.mp4
+
